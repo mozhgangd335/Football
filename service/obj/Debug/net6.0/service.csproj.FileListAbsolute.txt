@@ -1,0 +1,17 @@
+C:\Users\Stockala\Desktop\Project\Project\Football\service\bin\Debug\net6.0\service.deps.json
+C:\Users\Stockala\Desktop\Project\Project\Football\service\bin\Debug\net6.0\service.dll
+C:\Users\Stockala\Desktop\Project\Project\Football\service\bin\Debug\net6.0\service.pdb
+C:\Users\Stockala\Desktop\Project\Project\Football\service\bin\Debug\net6.0\Contracr.dll
+C:\Users\Stockala\Desktop\Project\Project\Football\service\bin\Debug\net6.0\Entities.dll
+C:\Users\Stockala\Desktop\Project\Project\Football\service\bin\Debug\net6.0\Contracr.pdb
+C:\Users\Stockala\Desktop\Project\Project\Football\service\bin\Debug\net6.0\Entities.pdb
+C:\Users\Stockala\Desktop\Project\Project\Football\service\obj\Debug\net6.0\service.csproj.AssemblyReference.cache
+C:\Users\Stockala\Desktop\Project\Project\Football\service\obj\Debug\net6.0\service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stockala\Desktop\Project\Project\Football\service\obj\Debug\net6.0\service.AssemblyInfoInputs.cache
+C:\Users\Stockala\Desktop\Project\Project\Football\service\obj\Debug\net6.0\service.AssemblyInfo.cs
+C:\Users\Stockala\Desktop\Project\Project\Football\service\obj\Debug\net6.0\service.csproj.CoreCompileInputs.cache
+C:\Users\Stockala\Desktop\Project\Project\Football\service\obj\Debug\net6.0\service.csproj.CopyComplete
+C:\Users\Stockala\Desktop\Project\Project\Football\service\obj\Debug\net6.0\service.dll
+C:\Users\Stockala\Desktop\Project\Project\Football\service\obj\Debug\net6.0\refint\service.dll
+C:\Users\Stockala\Desktop\Project\Project\Football\service\obj\Debug\net6.0\service.pdb
+C:\Users\Stockala\Desktop\Project\Project\Football\service\obj\Debug\net6.0\ref\service.dll

@@ -1,0 +1,12 @@
+C:\Users\Stockala\Desktop\Project\Project\Football\Contracr\bin\Debug\net6.0\Contracr.deps.json
+C:\Users\Stockala\Desktop\Project\Project\Football\Contracr\bin\Debug\net6.0\Contracr.dll
+C:\Users\Stockala\Desktop\Project\Project\Football\Contracr\bin\Debug\net6.0\Contracr.pdb
+C:\Users\Stockala\Desktop\Project\Project\Football\Contracr\obj\Debug\net6.0\Contracr.csproj.AssemblyReference.cache
+C:\Users\Stockala\Desktop\Project\Project\Football\Contracr\obj\Debug\net6.0\Contracr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stockala\Desktop\Project\Project\Football\Contracr\obj\Debug\net6.0\Contracr.AssemblyInfoInputs.cache
+C:\Users\Stockala\Desktop\Project\Project\Football\Contracr\obj\Debug\net6.0\Contracr.AssemblyInfo.cs
+C:\Users\Stockala\Desktop\Project\Project\Football\Contracr\obj\Debug\net6.0\Contracr.csproj.CoreCompileInputs.cache
+C:\Users\Stockala\Desktop\Project\Project\Football\Contracr\obj\Debug\net6.0\Contracr.dll
+C:\Users\Stockala\Desktop\Project\Project\Football\Contracr\obj\Debug\net6.0\refint\Contracr.dll
+C:\Users\Stockala\Desktop\Project\Project\Football\Contracr\obj\Debug\net6.0\Contracr.pdb
+C:\Users\Stockala\Desktop\Project\Project\Football\Contracr\obj\Debug\net6.0\ref\Contracr.dll
